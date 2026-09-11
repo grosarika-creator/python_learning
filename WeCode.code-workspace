@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../python-calculator"
+		},
+		{
+			"path": "../guess_the_number.py"
+		}
+	],
+	"settings": {}
+}
