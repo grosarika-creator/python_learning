@@ -38,3 +38,5 @@ elif score <= 70:
     print('C')
 else:
     print('D')
+# kalau mau pakai tanda < inget diurut dari yang paling kecil!! Vice versa.
+
