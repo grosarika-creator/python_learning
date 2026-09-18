@@ -29,7 +29,7 @@ else:
     print("Feedback: Focus on building your basic English skills.")
 
 # Give feedback based on weakest skill
-print("\n=== SKILL RECOMMENDATION ===")
+print("SKILL RECOMMENDATION")
 match weakest_skill:
     case "listening":
         print("Practice listening to English conversations, podcasts, and IELTS recordings.")
