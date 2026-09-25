@@ -8,4 +8,4 @@ def check_prime(number):
 
 number = int(input('Enter a number: '))
 check_result = check_prime(number)
-print(f"{number} is {'NOT' if not check_result else ''}a prime number")
+print(f"{number} is {'NOT' if not check_result else ''} a prime number")
